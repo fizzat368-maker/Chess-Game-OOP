@@ -1,0 +1,9 @@
+WHITE
+rnbqkb.r
+p..p...p
+.......n
+.pp.P...
+.P..pP.p
+....K...
+P.P...P.
+RN.Q.BNR
